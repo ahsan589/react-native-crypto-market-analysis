@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585392647006",
+    "project_id": "phytoscan-b4855",
+    "storage_bucket": "phytoscan-b4855.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585392647006:android:d981605dc791e93b387dcf",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgVPACROtVlfdrCVXV9W1pjge3yipkFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585392647006:android:fc6f18e09b523d27387dcf",
+        "android_client_info": {
+          "package_name": "com.example.phytoscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgVPACROtVlfdrCVXV9W1pjge3yipkFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
