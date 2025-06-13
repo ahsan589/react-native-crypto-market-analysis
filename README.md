@@ -18,7 +18,6 @@ A mobile application built using React Native that provides real-time cryptocurr
 - **JavaScript / TypeScript**
 - **Axios** (API calls)
 - **React Navigation** (for routing)
-- **Firebase** (authentication & database)
 - **CoinGecko API** (crypto data)
 - **TensorFlow / Flask** (for AI backend if applicable)
 
